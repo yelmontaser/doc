@@ -111,7 +111,6 @@ Example:
      abstract: true
 ```
 
-
 ## Forcing a nullable property
 
 Force a property to be `nullable` (or to be not).
